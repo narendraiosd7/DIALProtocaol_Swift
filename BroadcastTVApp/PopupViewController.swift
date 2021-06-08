@@ -69,7 +69,7 @@ extension PopupViewController : UITableViewDelegate, UITableViewDataSource {
         
         cell.deviceTitleLbl.text = tableData[indexPath.row].description
         
-        if(tableData[indexPath.row] as! Bool){
+        if(tableData[indexPath.row] as? Bool ?? false){
             cell.backgroundColor = #colorLiteral(red: 0.8039215803, green: 0.8039215803, blue: 0.8039215803, alpha: 1)
         } else {
             cell.backgroundColor = #colorLiteral(red: 1.0, green: 1.0, blue: 1.0, alpha: 1.0)
