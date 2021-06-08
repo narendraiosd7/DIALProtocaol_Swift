@@ -32,6 +32,7 @@
 		D99ABB0B2446D225003DB8D2 /* RelatedTvshowsSs.swift in Sources */ = {isa = PBXBuildFile; fileRef = D99ABB0A2446D225003DB8D2 /* RelatedTvshowsSs.swift */; };
 		D99ABB0F2446D22D003DB8D2 /* RelatedVideosSs.swift in Sources */ = {isa = PBXBuildFile; fileRef = D99ABB0E2446D22D003DB8D2 /* RelatedVideosSs.swift */; };
 		D99ABB112446D231003DB8D2 /* SkipAvailable.swift in Sources */ = {isa = PBXBuildFile; fileRef = D99ABB102446D231003DB8D2 /* SkipAvailable.swift */; };
+		DD979120266F2E6A00E35022 /* DIAL-2ndScreenProtocol, v2.2.pdf in Resources */ = {isa = PBXBuildFile; fileRef = DD97911F266F2E6A00E35022 /* DIAL-2ndScreenProtocol, v2.2.pdf */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -65,6 +66,7 @@
 		D99ABB0A2446D225003DB8D2 /* RelatedTvshowsSs.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RelatedTvshowsSs.swift; sourceTree = "<group>"; };
 		D99ABB0E2446D22D003DB8D2 /* RelatedVideosSs.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RelatedVideosSs.swift; sourceTree = "<group>"; };
 		D99ABB102446D231003DB8D2 /* SkipAvailable.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SkipAvailable.swift; sourceTree = "<group>"; };
+		DD97911F266F2E6A00E35022 /* DIAL-2ndScreenProtocol, v2.2.pdf */ = {isa = PBXFileReference; lastKnownFileType = image.pdf; path = "DIAL-2ndScreenProtocol, v2.2.pdf"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -126,6 +128,7 @@
 				D929C8CA24497EA3002C71F1 /* Discovery.h */,
 				D929C8C824497EA3002C71F1 /* Discovery.m */,
 				D929C8C624497EA2002C71F1 /* BroadcastTVApp-Bridging-Header.h */,
+				DD97911F266F2E6A00E35022 /* DIAL-2ndScreenProtocol, v2.2.pdf */,
 			);
 			path = BroadcastTVApp;
 			sourceTree = "<group>";
@@ -191,6 +194,7 @@
 			files = (
 				D99ABAE32445C5D8003DB8D2 /* LaunchScreen.storyboard in Resources */,
 				D99ABAE02445C5D8003DB8D2 /* Assets.xcassets in Resources */,
+				DD979120266F2E6A00E35022 /* DIAL-2ndScreenProtocol, v2.2.pdf in Resources */,
 				D99ABADE2445C5CE003DB8D2 /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
